@@ -1,8 +1,7 @@
 # Silent Disparities — Gender Bias in Hospital Mortality
 
-**Course:** Big Data Analytics  
-**Institution:** Clark University School of Business  
-**Platform:** Databricks (PySpark)  
+**Author:** Kubra Banu
+**Platform:** Databricks (PySpark)
 **Dataset:** MIMIC-IV (PhysioNet)
 
 ---
